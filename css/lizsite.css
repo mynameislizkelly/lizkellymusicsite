@@ -1,0 +1,256 @@
+h1{
+  border-bottom: groove #708090 3px;
+  border-top: groove #708090 3px;
+
+	text-align: center;
+  font-family: 'IM Fell DW Pica', serif;   
+	font-size: 100px;
+    text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
+                 10px 20px 5px rgba(0,0,0,0.05),
+                 -10px 20px 5px rgba(0,0,0,0.05);
+  position: absolute;
+  top:150px;
+}
+#header{
+	font-size: 70px;
+}
+
+#background{
+	margin:auto;
+	display: block;
+  position: relative;
+
+}
+
+.pics{
+  width:50%;
+  margin: 0 auto;
+
+}
+#infoProduce{
+  text-align: center;
+}
+body{
+	  font-family: 'IM Fell DW Pica', serif;
+    background-repeat: no-repeat;
+    background-position:bottom;  
+    background-color: #ffffcc;
+}
+.container{
+	max-width:1000px;
+	margin:0 auto;
+
+}
+
+.container1{
+	max-height: 270px;
+	max-width:142px;
+	text-align: center;
+	margin:0 auto;
+	border: 1px bold #ccc;
+}
+input{
+	width: 138px;
+	border: 2px solid #292929;
+    outline: 2px solid #e3e3e3;
+}
+
+textarea{
+	border: 2px solid #292929;
+    outline: 2px solid #e3e3e3;
+}
+
+label{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+nav{
+	 text-align: center;
+	 margin-bottom: 5px;
+	 font-size: 30px;
+	 word-spacing: 60px;
+}
+
+.containerInfo{
+  max-width:700px;
+  margin: 0 auto;
+
+}
+
+
+p{
+	
+	font-size: 25px; 
+}
+.singles{
+  width:50%;
+  float: left;
+}
+
+#kidsImages{
+margin:0 auto;
+display: block;
+padding-left: 8px;
+}
+#betterImages{
+margin:0 auto;
+display: block;
+padding-left: 8px;
+
+}
+
+#imageOne{
+ max-width: 100%
+
+}
+
+.images img{  
+    float: left;
+    width:  207px;
+    height: 207px;
+    border:10px black solid;
+    background-size: 100%; 
+    border-radius: 25px;
+    margin: 10px;
+   
+   
+}
+.navImg{
+  width: 30%;
+  float: left;
+}
+.images{
+
+	margin:0 auto;
+    max-width: 741px;
+    max-height: 741px;
+    overflow:hidden;
+    position: relative;
+    padding-top: 20px;
+
+
+}
+
+.record{
+	text-align: center;
+    top: 50%;
+    left: 50%;
+  
+}
+/*span #live {
+	
+	color:yellow;
+   
+}
+software{
+	   display: inline;
+       vertical-align:middle;
+       line-height:100%;   
+}*/
+
+/*h2{*//**/
+	/*font-size: 16px;
+	color:red;
+}*/
+
+/*nav {
+	display:inline;
+	text-align: center;
+	
+
+}*/
+/*title{
+	position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  padding-top:13.5%;  
+  text-align:center;
+  font-weight:bold;
+  color:white;
+  font-family:arial;
+}*/
+
+.centerHalf{
+   position: absolute; 
+   top: 100px; 
+   left: 60px; 
+   width: 100%; 
+
+}
+.centerKid{
+   position: absolute; 
+   top: 100px; 
+   left: 300px; 
+   width: 100%; 
+  }
+.centerProduce{
+   position: absolute; 
+   top: 100px; 
+   left: 505px; 
+   width: 100%; 
+  
+}
+.centerSoftware{
+   position: absolute; 
+   top: 335px; 
+   left: 60px; 
+   width: 100%; 
+   
+}
+.centerVet{
+   position: absolute; 
+   top: 335px; 
+   left: 300px; 
+   width: 100%; 
+  
+}
+.centerDrum{
+   position: absolute; 
+   top: 335px; 
+   left: 535px; 
+   width: 100%; 
+ 
+}
+.centerBar{
+   position: absolute; 
+   top: 560px; 
+   left: 65px; 
+   width: 100%; 
+ 
+}
+.centerLive{
+   position: absolute; 
+   top: 560px; 
+   left: 315px; 
+   width: 100%; 
+ 
+}
+.centerPerson{
+   position: absolute; 
+   top: 560px; 
+   left: 545px; 
+   width: 100%; 
+ 
+}
+.link{
+	font-size: 25px;
+	color:white;
+	font-weight: bold;
+    font-family: 'Reenie Beanie', cursive; 
+}
+/*
+.kids{
+	position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centeredKid{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    ;
+}*/
